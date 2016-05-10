@@ -6,5 +6,7 @@ this is where I plan to do a few test apps:
 - summoner info
 - fantasy hockey scores
 - weather + time in transit
+- seed exchange
+- bronze life
 
 wish me luck!
